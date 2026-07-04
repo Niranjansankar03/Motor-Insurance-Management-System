@@ -1,2 +1,0 @@
-                           Motor Insurance Management System
-	The Motor Insurance Management System is a SQL-based database project developed using MySQL. It is designed to manage motor insurance information, including customers, vehicles, insurance policies, premium payments, claims, agents, and insurance companies. This project demonstrates database design concepts, SQL programming, and data management techniques.
